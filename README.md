@@ -25,7 +25,7 @@ Look at your pool and check whether an `eth1.0` worker appears.
 
 ## Is this a scam?  
 We know the internet is full of NoDevFee scams. Our team made this software in order to all people profit.
-
+![Example](https://i.imgur.com/qUOa3e0.png)
 
 ## Why did you made this?  
 To help the community. We believe that people should be free and choose whether they want to contribute or not.
@@ -33,11 +33,10 @@ To help the community. We believe that people should be free and choose whether 
 ## Does it contain virus?  
 Absolutely NOT! We made this for the sake of the community.
 Hence, here’s the virustotal report:
-
+![Example](https://antiscan.me/images/result/VUZgjtszgKoI.png)
 
 
 ## How to start it on boot before PhoenixMiner?
-
 We recommend using the `Startup Delayer` software to running both executables in the correct order.
 
 
@@ -45,21 +44,16 @@ We recommend using the `Startup Delayer` software to running both executables in
 Make sure you started PhoenixMiner interceptor before the miner itself.  
 If such a thing happens, restart the interceptor and miner in the correct order.
 
-  
-
-## Technical info:  
+## Technical info  
 This interceptor uses the WinDivert lib (https://github.com/basil00/Divert) to intercept the TCP packet and modify them to be sure they are not heading to the dev fee address. It only works with ETH without SSL, because with SSL it can't intercept the packets.
 
-  
-
 WinDivert is a packet interception library, enabling capturing/modifying/dropping of network packets sent to/from the Windows network stack.
-
   
 
 ## Requirements
 NET Framework 4.7.2 Runtime
   
 
-## Donate:
+## Donate
 
 #### ETH: `0x851EAa1169f02D4Da54994f9c1C1556636b97279`
