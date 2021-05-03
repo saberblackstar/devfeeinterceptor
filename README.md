@@ -25,7 +25,7 @@ Look at your pool and check whether an `eth1.0` worker appears after some time.
 ![Example](https://i.imgur.com/Kl4JVan.png)   
   
 ## Is this a scam?  
-Of course not. We know the internet is full of NoDevFee scams. Our team made this software to help the community. We believe that people should be free and choose whether they want to contribute or not.
+Of course not. We all know the internet is full of NoDevFee scams. I made this software to help the community, believing that people should be free and choose whether they want to contribute or not.
 
 ## Does it contain virus?  
 Absolutely not. Here’s the virustotal report:
