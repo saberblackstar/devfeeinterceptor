@@ -16,7 +16,9 @@ When DevFee packets are detected, the wallet address is changed and diverted to 
 
 1.  Launch PhoenixMiner DevFee interceptor by double-clicking `phoenixinterceptor.exe`    
 2.  Launch PhoenixMiner as usual
-    
+
+Result:
+![Example](https://i.imgur.com/iTlPkJ1.png)    
 
 ## How to check if NoDevFee is working correctly?
 
@@ -25,7 +27,6 @@ Look at your pool and check whether an `eth1.0` worker appears.
 
 ## Is this a scam?  
 We know the internet is full of NoDevFee scams. Our team made this software in order to all people profit.
-![Example](https://i.imgur.com/qUOa3e0.png)
 
 ## Why did you made this?  
 To help the community. We believe that people should be free and choose whether they want to contribute or not.
