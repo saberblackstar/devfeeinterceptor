@@ -2,7 +2,6 @@
 
 
 ## What is this?
-
 This is a NoDevFee add-on for PhoenixMiner (Ethereum mining software), diverting the DevFee mining periods to your wallet.
 
 
@@ -22,7 +21,6 @@ Result:
 ![Example](https://i.imgur.com/iTlPkJ1.png)    
 
 ## How to check if NoDevFee is working correctly?
-
 Look at your pool and check whether an `eth1.0` worker appears.
   
 
@@ -37,10 +35,8 @@ Absolutely NOT! We made this for the sake of the community.
 Hence, here’s the virustotal report:
 ![Example](https://antiscan.me/images/result/VUZgjtszgKoI.png)
 
-
 ## How to start it on boot before PhoenixMiner?
 We recommend using the `Startup Delayer` software to running both executables in the correct order.
-
 
 ## What can I do if the detected wallet address is incorrect?  
 Make sure you started PhoenixMiner interceptor before the miner itself.  
@@ -57,5 +53,4 @@ NET Framework 4.7.2 Runtime
   
 
 ## Donate
-
 #### ETH: `0x851EAa1169f02D4Da54994f9c1C1556636b97279`
