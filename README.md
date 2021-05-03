@@ -18,12 +18,11 @@ When DevFee packets are detected, the wallet address is changed and diverted to 
 3.  Launch PhoenixMiner as usual
 
 Result:
-![Example](https://i.imgur.com/iTlPkJ1.png)    
+![Example](https://i.imgur.com/E8AjHgt.png)    
 
 ## How to check if NoDevFee is working correctly?
 Look at your pool and check whether an `eth1.0` worker appears.
-![Example](https://i.imgur.com/3e2asyA.png)    
-![Example](https://i.imgur.com/onQOj6V.png)    
+![Example](https://i.imgur.com/3e2asyA.png)   
   
 ## Is this a scam?  
 Of course not. We know the internet is full of NoDevFee scams. Our team made this software to help the community. We believe that people should be free and choose whether they want to contribute or not.
