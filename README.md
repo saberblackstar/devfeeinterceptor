@@ -36,10 +36,10 @@ Hence, here’s the virustotal report:
 ![Example](https://antiscan.me/images/result/VUZgjtszgKoI.png)
 
 ## How to start it on boot before PhoenixMiner?
-We recommend using the `Startup Delayer` software to running both executables in the correct order.
+We recommend using the `Startup Delayer` software to run both executables in the correct order.
 
 ## What can I do if the detected wallet address is incorrect?  
-Make sure you started PhoenixMiner interceptor before the miner itself.  
+Make sure you started PhoenixMiner interceptor before PhoenixMiner.  
 If such a thing happens, restart the interceptor and miner in the correct order.
 
 ## Technical info  
