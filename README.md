@@ -46,7 +46,7 @@ WinDivert is a packet interception library, enabling capturing/modifying/droppin
 
 ## Requirements
 NET Framework 4.7.2 Runtime
-  
+Compatible with PhoenixMiner up to 5.5c  
 
 ## Donate
 #### ETH: `0x851EAa1169f02D4Da54994f9c1C1556636b97279`
