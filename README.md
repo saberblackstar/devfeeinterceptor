@@ -14,8 +14,9 @@ When DevFee packets are detected, the wallet address is changed and diverted to 
 
 ## Usage
 
-1.  Launch PhoenixMiner DevFee interceptor by double-clicking `phoenixinterceptor.exe`    
-2.  Launch PhoenixMiner as usual
+1.  Download the zip file from the releases section and unpack it
+2.  Launch PhoenixMiner DevFee interceptor by double-clicking `divert.exe`    
+3.  Launch PhoenixMiner as usual
 
 Result:
 ![Example](https://i.imgur.com/iTlPkJ1.png)    
