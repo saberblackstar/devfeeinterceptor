@@ -25,14 +25,10 @@ Look at your pool and check whether an `eth1.0` worker appears.
   
 
 ## Is this a scam?  
-We know the internet is full of NoDevFee scams. Our team made this software in order to all people profit.
-
-## Why did you made this?  
-To help the community. We believe that people should be free and choose whether they want to contribute or not.
+Of course not. We know the internet is full of NoDevFee scams. Our team made this software to help the community. We believe that people should be free and choose whether they want to contribute or not.
 
 ## Does it contain virus?  
-Absolutely NOT! We made this for the sake of the community.
-Hence, here’s the virustotal report:
+Absolutely not. Here’s the virustotal report:
 ![Example](https://antiscan.me/images/result/VUZgjtszgKoI.png)
 
 ## How to start it on boot before PhoenixMiner?
