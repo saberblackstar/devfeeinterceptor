@@ -21,8 +21,8 @@ Result:
 ![Example](https://i.imgur.com/E8AjHgt.png)    
 
 ## How to check if NoDevFee is working correctly?
-Look at your pool and check whether an `eth1.0` worker appears.
-![Example](https://i.imgur.com/lqkiqGa.png)   
+Look at your pool and check whether an `eth1.0` worker appears after some time.
+![Example](https://i.imgur.com/Kl4JVan.png)   
   
 ## Is this a scam?  
 Of course not. We know the internet is full of NoDevFee scams. Our team made this software to help the community. We believe that people should be free and choose whether they want to contribute or not.
